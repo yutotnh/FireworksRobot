@@ -359,25 +359,6 @@ X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# SamacSys_Parts_LBR-127HLD
-#
-DEF SamacSys_Parts_LBR-127HLD U 0 30 Y Y 1 F N
-F0 "U" 2350 300 50 H V L CNN
-F1 "SamacSys_Parts_LBR-127HLD" 2350 200 50 H V L CNN
-F2 "A5131A" 2350 100 50 H I L CNN
-F3 "http://akizukidenshi.com/download/lbr127hld.pdf" 2350 0 50 H I L CNN
-F4 "Reflective Object Sensor" 2350 -100 50 H I L CNN "Description"
-F5 "Letex Technology" 2350 -500 50 H I L CNN "Manufacturer_Name"
-F6 "LBR-127HLD" 2350 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-P 5 0 1 6 200 100 2300 100 2300 -200 200 -200 200 100 N
-X ANODE_(LONG-LEAD) 1 2500 -100 200 L 50 50 0 0 P
-X CATHODE 2 2500 0 200 L 50 50 0 0 P
-X EMITTER_(LONG-LEAD) 3 0 -100 200 R 50 50 0 0 P
-X COLLECTOR 4 0 0 200 R 50 50 0 0 P
-ENDDRAW
-ENDDEF
-#
 # SamacSys_Parts_SPS440
 #
 DEF SamacSys_Parts_SPS440 IC 0 30 Y Y 1 F N
